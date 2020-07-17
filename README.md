@@ -7,7 +7,7 @@
 
 olá pessoas,
 
-Sou um estudante de T.I na UFRN (último período) e quem sabe um futuro youtuber :grin:	compartilhando o conhecimento que venho acumulando na minha jornada como desenvolvedor frontend na @codeminer42, dos cursos que tiver a oportunidade de fazer e aprendendo bastante com a comunidade. Todos sabemos que o mercado de T.I. não é muito inclusivo, então, acredito fortemente que compartilhar conhecimento é um dos caminhos para mudarmos essa realidade.
+Sou um estudante de T.I na UFRN (último período) e quem sabe um futuro youtuber :grin:	compartilhando o conhecimento que venho acumulando na minha jornada como desenvolvedor frontend na @codeminer42, dos cursos que tiver a oportunidade de fazer e aprendendo bastante com a comunidade. Todos sabemos que o mercado de T.I. não é muito inclusivo, então, acredito fortemente que compartilhar conhecimento e torná-lo acessível é um dos caminhos para mudarmos essa realidade.
 
 No momento estou em busca repositórios/projetos de comunidade que eu possa contribuir no meu tempo livre e as minhas principais tecnologias são React, Redux, Material UI, Formik e RTL ,mas, também costumo brincar um pouco com Docker, Node, Express, Sequelize e afins.
 
